@@ -1,4 +1,4 @@
-# <ins>CSS Flexbox practice</ins>
+# <ins>CSS Flexbox Practice</ins>
 
 ### Introduction
 So far I have worked with the CSS Box Model which has been not as hard to understand. It's after trying to work on a different project on a recipe website that I discovered the Box model cannot really help me move some things around.
