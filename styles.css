@@ -18,3 +18,13 @@
     display: flex;
     justify-content: space-between;
   }
+
+  .links{
+    display: flex;
+    justify-content: flex-end;
+    border: 1px solid #fff;
+  }
+
+  .login{
+    margin-left: 20px;
+  }
